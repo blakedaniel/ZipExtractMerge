@@ -31,7 +31,7 @@ Extracts all files in the zip files to the destination directory. If 'delete' is
 #### args
 - delete (bool): When 'True' deletes each zip file after extraction. Default: 'False'
 
-## command line usage
+## Command Line Usage
 execute by running the following command in the terminal:
 
     ./zipExtractMerge.py [zip_direct] [dest_direct] [skip_types] [delete]
