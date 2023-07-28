@@ -33,7 +33,8 @@ Extracts all files in the zip files to the destination directory. If 'delete' is
 
 ## command line usage
 execute by running the following command in the terminal:
-./zipExtractMerge.py [zip_direct] [dest_direct] [skip_types] [delete]
+
+    ./zipExtractMerge.py [zip_direct] [dest_direct] [skip_types] [delete]
 
 #### args
 - '-zd', '--zip_direct' (str): directory where zip files are
